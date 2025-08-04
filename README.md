@@ -40,7 +40,4 @@ Follow the cells step by step. The workflow includes:
 - [Huggingface TRL](https://github.com/huggingface/trl) for training utilities
 
 ## License
-MIT license
-
----
-For questions or contributions, please open an issue or pull request.
+MIT License
